@@ -1,0 +1,3 @@
+In /Documents/ se afla 2 foldere:# filme# poze
+ Folderul: filme contine: 1 fisiere => Denumire:actiune Extensie: wav Locatie: /filme/actiune.wav
+ Folderul: poze contine: 1 fisiere => Denumire:munte Extensie: png Locatie: /poze/munte.png

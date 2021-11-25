@@ -1,0 +1,13 @@
+Nr_criteriu;Tip_produs;Produs;Cantitati_produs;Cost_de_productie;Cost_total_productie;Cantitati_vandute;Pret_produs_fara_TVA;Pret_produs_cu_TVA;Venituri_totale;Profit;Cantitate_ramasa;Stoc_disponibil;Profit_Pierdere
+1;Consultanta;VerificarePC;300;500;800;200;1500;1950;50000;30000;0;Vandut;Profit
+2;Dezvoltare;AplicatieWeb;100;5000;8000;50;17500;25000;750000;-4000;159;Disponibil;Pierdere
+3;Consultanta;OptimizarePC;100;300;600;100;200;350;3000;-299;51;Disponibil;Pierdere
+4;Suport;Debugging;800;200;600;500;500;750;75000;30000;0;Vandut;Profit
+5;Consultanta;SortareDocumente;100;300;700;400;250;550;5000;1000;9;Disponibil;Profit
+6;Suport;RefacereDesign;100;800;1500;100;2500;3650;5000;-20;0;Vandut;Pierdere
+7;Suport;ComentariiCod;50;100;250;1250;150;195;75000;30000;0;Vandut;Profit
+8;Depanare;FormatarePc;25;100;150;2500;250;285;5910;300;0;Vandut;Profit
+9;Dezvoltare;AplicatieAndroid;300;750;1000;200;1900;2500;85890;-15000;25;Disponibil;Pierdere
+10;Dezvoltare;ApllicatieIOS;300;750;1000;250;1900;2500;95000;-11000;0;Vandut;Pierdere
+11;Depanare;CuratarePc;20;45;100;50;75;100;500;300;55;Disponibil;Profit
+12;Dezvoltare;AplicatieTV;100;350;500;20;150;250;2500;-500;199;Disponibil;Pierdere

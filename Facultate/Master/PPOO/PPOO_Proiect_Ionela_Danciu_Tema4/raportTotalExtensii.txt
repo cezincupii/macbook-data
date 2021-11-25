@@ -1,0 +1,9 @@
+Total fisiere cu extensia mp3: 1
+Total fisiere cu extensia mp4: 0
+Total fisiere cu extensia jpg: 2
+Total fisiere cu extensia png: 1
+Numar fisiere ordonate crescator:
+0
+1
+1
+2

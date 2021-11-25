@@ -1,0 +1,8 @@
+/Documents/
+2
+poze
+1
+munte,png,/poze/munte.png
+filme
+1
+actiune,wav,/filme/actiune.wav

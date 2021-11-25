@@ -1,0 +1,22 @@
+Local Disk(C:)
+2
+muzica
+2
+mm,mp3,C:\muzica\mm.mp3
+Salam,mp3,C:\muzica\Salam.mp3
+imagini
+3
+img,png,C:\imagini\img.png
+img2,jpg,C:\imagini\img2.jpg
+img1,jpg,C:\imagini\img1.jpg
+
+/Documents/
+2
+music
+1
+mm,mp3,/Documents/music/mm.mp3
+images
+3
+img,png,/Documents/images/img.png
+img2,jpg,/Documents/images/img2.jpg
+img1,jpg,/Documents/images/img1.jpg

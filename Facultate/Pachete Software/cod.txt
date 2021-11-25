@@ -1,0 +1,7 @@
+data DateProiectSAS2;
+infile '/home/u58297523/DateProiect.txt';
+	input  Nr_criteriu	Tip_produs $	Produs $	Cantitati_produs
+	Cost_de_productie	Cost_total_productie	Cantitati_vandute	
+	Pret_produs_fara_TVA	Pret_produs_cu_TVA	Venituri_totale	Profit	
+	Cantitati_ramase	Stoc $	Profit_Pierdere $;
+run;

@@ -1,0 +1,36 @@
+1 Consultanta VerificarePC 300 50 100
+2 Dezvoltare AplicatieWeb 100 50 25
+3 Consultanta OptimizarePC 100 300 52
+4 Suport Debugging 800 200 600 
+5 Consultanta SortareDocumente 100 125 500
+6 Suport RefacereDesign 100 800 1500
+7 Suport ComentariiCod 50 100 25
+8 Depanare FormatarePc 25 100 15
+9 Dezvoltare AplicatieAndroid 300 1250 2500
+10 Dezvoltare ApllicatieIOS 300 500 998
+11 Depanare CuratarePc 20 45 100
+12 Dezvoltare AplicatieTV 100 35 250
+
+
+  // computed: {
+  //   ...mapGetters(selfTestStore, {
+  //     i18nHeadingPathFor: selfTestGetters.I18N_HEADING_PATH_FOR,
+  //     pronoun: selfTestGetters.PRONOUN,
+  //     possessive: selfTestGetters.POSSESSIVE,
+  //     fullName: selfTestGetters.FULL_NAME
+  //   }),
+  //   i18n() {
+  //     if (this.pronoun === "you") {
+  //       return {
+  //         heading: this.pronoun,
+  //         pronoun: this.pronoun,
+  //         possessive: this.possessive
+  //       };
+  //     }
+  //     return {
+  //       heading: this.fullName,
+  //       pronoun: this.pronoun,
+  //       possessive: this.possessive
+  //     };
+  //   }
+  // }

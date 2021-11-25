@@ -1,0 +1,16 @@
+#black{
+    position:absolute;
+    left:0px;
+    background-color: black;
+    height:100%;
+    width:20%;
+}
+#white{
+    position:absolute;
+    right:0px;
+    height:100%;
+    width:80%;
+}
+.white{
+	color:white;
+}

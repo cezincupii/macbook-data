@@ -1,0 +1,5 @@
+Consultanta VerificarePC 100 20
+Dezvoltare AplicatieWeb 200 0
+Suport ComentariiCod 500 0
+Dezvoltare AplicatieAndroid 20 100
+Depanare CuratarePc 10 0

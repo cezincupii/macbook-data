@@ -1,0 +1,3 @@
+In Local Disk(C:) exista 2 folder/foldere:# imagini# muzicaFiecare folder are urmatoarea structura: 
+Folderul imagini contine: 3 fisier/fisiere--->  Denumire: img  Extensie: png  Locatie: C:\imagini\img.png--->  Denumire: img2  Extensie: jpg  Locatie: C:\imagini\img2.jpg--->  Denumire: img1  Extensie: jpg  Locatie: C:\imagini\img1.jpg
+Folderul muzica contine: 2 fisier/fisiere--->  Denumire: mm  Extensie: mp3  Locatie: C:\muzica\mm.mp3--->  Denumire: Salam  Extensie: mp3  Locatie: C:\muzica\Salam.mp3

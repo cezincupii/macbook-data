@@ -1,0 +1,49 @@
+body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 50%;
+    height: 40%;
+    background-color:mediumaquamarine;
+    padding: 20px;
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.top-part {
+    display: flex;
+    justify-content: space-between;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.name-info {
+    color:white;
+}
+
+.first-name {
+    font-size: 40px;
+}
+
+.job-description {
+    font-size: 20px;
+}
+
+.bottom-part {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    color:white;
+}
+
+.italic {
+    font-style: italic;
+}
